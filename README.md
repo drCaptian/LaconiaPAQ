@@ -22,6 +22,10 @@
 ## 📦 Использование
 
 - У основного класса PAQCompressor через конструктор передается
-- string fileToAction - входной файл
-- string pathToSaveResult - выходной файл
+- string fileToAction - входной файл/также является путем
+- string pathToSaveResult - выходной файл/также является путем
 - Мод (Compress/Decompress), используется Enum CompressMode
+
+
+## Пример
+PAQCompressor paq = new PAQCompressor("output.paq","output.txt",CompressorMode.Decompress);
