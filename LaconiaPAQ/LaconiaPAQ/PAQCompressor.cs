@@ -14,10 +14,25 @@ public class PAQCompressor
         switch (mode)
         {
             case CompressorMode.Compress :
-                Compress(pathToSaveResult);
+                const string allowedType = ".paq";
+                if (pathToSaveResult.EndsWith(allowedType, StringComparison.OrdinalIgnoreCase))
+                {
+                    Compress(pathToSaveResult);
+                }
+                else
+                {
+                    throw new Exception("Wrong type in output file");
+                }
                 break;
             case CompressorMode.Decompress:
-                Decompress(pathToSaveResult);
+                if (fileToAction.EndsWith(allowedType, StringComparison.OrdinalIgnoreCase))
+                {
+                    Decompress(pathToSaveResult);
+                }
+                else
+                {
+                    throw new Exception("Wrong type in input file");
+                }
                 break;
             default:
                 throw new Exception("Non-valid mode compressor");
