@@ -4,13 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        string filePath = "input.txt";
-        string compressedPath = "compressed.paq";
-        string decompressedPath = "output.txt";
 
-        PAQCompressor paq = new PAQCompressor(filePath);
-        paq.Compress(compressedPath);
-        paq.Decompress(compressedPath);
+        PAQCompressor paq = new PAQCompressor("input.txt","output.paq",CompressorMode.Compress);
 
         Console.WriteLine("PAQ9a compression/decompression finished!");
     }
