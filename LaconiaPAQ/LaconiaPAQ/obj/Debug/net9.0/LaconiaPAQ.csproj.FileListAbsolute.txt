@@ -1,0 +1,15 @@
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\bin\Debug\net9.0\LaconiaPAQ.exe
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\bin\Debug\net9.0\LaconiaPAQ.deps.json
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\bin\Debug\net9.0\LaconiaPAQ.runtimeconfig.json
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\bin\Debug\net9.0\LaconiaPAQ.dll
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\bin\Debug\net9.0\LaconiaPAQ.pdb
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.AssemblyInfoInputs.cache
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.AssemblyInfo.cs
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.csproj.CoreCompileInputs.cache
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.sourcelink.json
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.dll
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\refint\LaconiaPAQ.dll
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.pdb
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\LaconiaPAQ.genruntimeconfig.cache
+C:\Users\fuzz\RiderProjects\LaconiaPAQ\LaconiaPAQ\LaconiaPAQ\obj\Debug\net9.0\ref\LaconiaPAQ.dll
