@@ -1,18 +1,27 @@
 # LaconiaPAQ
-Modern PAQ (C#)
+# LaconiaPAQ
 
-Минимальная реализация PAQ-подобного компрессора на C#
-Поддерживает побитовую обработку, контекстное прогнозирование и базовую структуру PAQ9a.
+Минимальная PAQ-inspired реализация компрессора на C#.
 
+Функциональность
+- Побитовую обработку данных
+- Контекстное прогнозирование
+- Архитектуру в стиле PAQ9a
+- Потоковую работу с файлами
 
-Требования
+> ВАЖНО: Это упрощенная реализация. Не является полной копией PAQ9a.
 
-.NET 6+ (или выше)
+---
 
+## Требования
 
-Использование
-PAQ9aCompressor compressor = new PAQ9aCompressor("input.txt");
-compressor.Compress("compressed.paq");
+- .NET 6.0 или выше
 
-PAQ9aCompressor decompressor = new PAQ9aCompressor("compressed.paq");
-decompressor.Decompress("output.txt");
+---
+
+## 📦 Использование
+
+- У основного класса PAQCompressor через конструктор передается
+- string fileToAction - входной файл
+- string pathToSaveResult - выходной файл
+- Мод (Compress/Decompress), используется Enum CompressMode
