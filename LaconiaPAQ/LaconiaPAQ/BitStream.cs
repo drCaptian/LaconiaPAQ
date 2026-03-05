@@ -1,3 +1,5 @@
+using System.IO;
+
 namespace LaconiaPAQ;
 
 public class BitStream

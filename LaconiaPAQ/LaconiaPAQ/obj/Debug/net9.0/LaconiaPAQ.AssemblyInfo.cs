@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaconiaPAQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57ba6839cb81d5fe6be47d486252d01c2ab3ab50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136e8bdf8e6ed0c261f88a706c7db765649a4441")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaconiaPAQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaconiaPAQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
